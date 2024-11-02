@@ -1,0 +1,9 @@
+export const green = '#2BB789';
+export const darkGreen = '#006A42';
+export const violet = '#9932cc';
+export const bg = '#877dfa';
+export const white = "#FFFFFF";
+export const black = "#222222";
+export const primary = "#007260";
+export const secondary = "#39B68D";
+export const grey = "#CCCCCC";
