@@ -7,8 +7,8 @@ import Field from './Field';
 import axios from 'axios';
 import {MaterialCommunityIcons} from '@expo/vector-icons';
 
-const API_KEY = 'AIzaSyC3h6CnzeDqk6qGSpxZASMI9RRO0YO1kSA'; // Replace with your actual API key
-const SPREADSHEET_ID = '1Bn8LFwQ3CWUfNzE7pK1wa_vF-_VYYXe8tLxe5bY7xp8'; // Replace with your actual spreadsheet ID
+const API_KEY = 'xxxxxxx'; // Replace with your actual API key
+const SPREADSHEET_ID = 'xxxxxxx-xxxxxx'; // Replace with your actual spreadsheet ID
 const RANGE = 'Sheet1!A1:D10';
 
 const Login = (props) => {
